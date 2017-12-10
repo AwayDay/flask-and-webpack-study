@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AwayDay/flask-and-webpack-study/issues"
   },
-  "homepage": "https://github.com/AwayDay/flask-and-webpack-study#readme"
+  "homepage": "https://github.com/AwayDay/flask-and-webpack-study#readme",
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
 }
